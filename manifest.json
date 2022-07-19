@@ -1,0 +1,12 @@
+{
+    "name": "东厦小学2016届12班",
+    "lang": "zh-Hans",
+    "description": "这是我们的班级网站",
+    "start_url": "https://dx2016612.github.io/",
+    "background_color": "#fff8cd",
+    "theme_color": "#f8be64",
+    "dir": "ltr",
+    "display": "standalone",
+    "orientation": "any",
+  "prefer_related_applications": false
+}
